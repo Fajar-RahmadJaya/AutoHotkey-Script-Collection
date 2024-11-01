@@ -28,3 +28,8 @@ To ensure neat and to the point list, we use this format to deliver script :
 - Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/ShiftToControlCommand
 
 If your can't use ctrl and you don't have key to replace it, you can change shift to ctrl but still can use shift. For example if you click 'shift+c' it will send 'ctrl+c', but if you click 'shift+q' or just 'shift' it will still send 'shift+q' or just 'shift'. You can also combined it with different script like change alt to shift, so whenever you click 'alt+c' it will send  'ctrl+c'. This script usefull if you don't use shift+ctrl command and want to change ctrl command to shift. You can also use it as template for another key if you want to do the same. 
+
+## [Typing Numbers With Caps Lock For AZERTY Keyboard](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber) :
+- Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber
+
+If you use AZERT layout for your keyboard and you want to easily type number with capslock then this is what you are looking for. This script work using capslock as condition, so  you need to enable capslock first for it to work. You can also use this as template for another script because capslock doesn't affect number row so why not use it to increase type experience.
