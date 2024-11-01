@@ -9,7 +9,7 @@ Like the name, this is a collection of AutoHotkey Script. We try to made it as b
 3. Done and now You have the script.
 
 ## How To Run The Script :
-Running AutoHotkey script is simple, you just need to download AutoHotkey first if you don't have yet then just double click the script to run it. If you do that the script will automatically running and you can use it, but it's a bit complicated to manage it like exit script, edit script, run script on startup etc. So we recommend you to use KeyTik which also from us to manage your AutoHotkey script. For more detailed information about [KeyTik](https://github.com/Fajar-RahmadJaya/KeyTik), go to "https://github.com/Fajar-RahmadJaya/KeyTik". Here is some preview of KeyTik in case you are interested :
+Running AutoHotkey script is simple, you just need to download AutoHotkey first if you don't have yet then just double click the script to run it. If you do that the script will automatically running and you can use it, but it's a bit complicated to manage it like exit script, edit script, run script on startup etc. So we recommend you to use KeyTik which also from us to manage your AutoHotkey script. For more detailed information about it click "[KeyTik : Keyboard Remapper With Profile](https://github.com/Fajar-RahmadJaya/KeyTik)". Here is some preview of KeyTik in case you are interested :
 
 <img src="Picture/Preview Main 1.png" alt="Preview Main 1" width="400" />
 <img src="Picture/Preview Main 2.png" alt="Preview Main 1" width="400" />
