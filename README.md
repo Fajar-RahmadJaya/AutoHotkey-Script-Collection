@@ -33,3 +33,8 @@ If your can't use ctrl and you don't have key to replace it, you can change shif
 - Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber
 
 If you use AZERT layout for your keyboard and you want to easily type number with capslock then this is what you are looking for. This script work using capslock as condition, so  you need to enable capslock first for it to work. You can also use this as template for another script because capslock doesn't affect number row so why not use it to increase type experience.
+
+## 3. [Auto Click When Holding Key](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AutoClickHoldingKey) :
+- Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AutoClickHoldingKey
+
+AutoHotkey can also be used as auto clicker. But not like other auto clicker, AutoHotkey can made you able to add more command to the clicker. For example in this code, you can use 'e' to make condition for it to work. So, if you hold 'e' it will send left click multiple time and you can adjust the interval between click. For short, with this you can do more advance auto clicker in lightweight size. You can also use this as template or adjust to your preference on interval, condition for script to work, change left click with another keys etc.
