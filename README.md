@@ -1,4 +1,4 @@
-# AutoHotkey Script Collection
+# AutoHotkey Script Collection And Template
 Like the name, this is a collection of AutoHotkey Script. We try to made it as beginner friendly and neat as possible. The script can serve as template for your own script or you can use it as is. For now there are not much script but we will update it regularly to ensure active repository. If you have script you want to share, we hope you can participate to this repository.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
