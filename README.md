@@ -36,17 +36,17 @@ To ensure neat and to the point list, we use this format to deliver script :
 
 If your can't use ctrl and you don't have key to replace it, you can change shift to ctrl but still can use shift. For example if you click 'shift+c' it will send 'ctrl+c', but if you click 'shift+q' or just 'shift' it will still send 'shift+q' or just 'shift'. You can also combined it with different script like change alt to shift, so whenever you click 'alt+c' it will send  'ctrl+c'. This script usefull if you don't use shift+ctrl command and want to change ctrl command to shift. You can also use it as template for another key if you want to do the same. 
 
-## 2. [Typing Numbers With Caps Lock For AZERTY Keyboard](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber) :
+## 2. [Typing Numbers Instead Symbol When Caps Lock on For AZERTY Layout Keyboard](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber) :
 - Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AZERTYCapslockForNumber
 
 If you use AZERT layout for your keyboard and you want to easily type number with capslock then this is what you are looking for. This script work using capslock as condition, so  you need to enable capslock first for it to work. You can also use this as template for another script because capslock doesn't affect number row so why not use it to increase type experience.
 
-## 3. [Auto Click When Holding Key](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AutoClickHoldingKey) :
+## 3. [Auto Clicker When Holding Specific Key](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AutoClickHoldingKey) :
 - Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/AutoClickHoldingKey
 
 AutoHotkey can also be used as auto clicker. But not like other auto clicker, AutoHotkey can made you able to add more command to the clicker. For example in this code, you can use 'e' to make condition for it to work. So, if you hold 'e' it will send left click multiple time and you can adjust the interval between click. For short, with this you can do more advance auto clicker in lightweight size. You can also use this as template or adjust to your preference on interval, condition for script to work, change left click with another keys etc.
 
-## 4. [Shortcut To Open Multiple Files](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/ShortcutOpenFiles) :
+## 4. [Open Multiple Files Using Shortcut](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/ShortcutOpenFiles) :
 - Link : https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/releases/tag/ShortcutOpenFiles
 
 You can open some files using shortcut. For example, i want to open files 1 and files 2 when clicking 'alt+left arrow'. I can do that with adjusting some of this code then run the script. After i click 'alt+left arrrow' it should opening files 1 and files 2. Files i mean here is not just files, you can use whatever in your device as long as it has their path like "D\MyFolder\MyFiles". You can use it if you don't want to go to your files directory or want to make your desktop clean. If you want the script to auto run on startup, [click this for more info](https://github.com/Fajar-RahmadJaya/AutoHotkeyCollection/tree/main?tab=readme-ov-file#how-to-run-the-script-) so you can add or remove your script from startup easily. Of course you can also not assign any shortcut to it so if the script clicked or run it will directly open the files or you can just made it to run on startup so your files will automatically opened when you log to your device. Adjust it to your preference and creativity.
